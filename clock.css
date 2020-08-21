@@ -1,0 +1,142 @@
+body{
+    background-color: rgb(215, 247, 247);
+}
+#clock{
+    position: absolute;
+    top: 10%;
+    left: 30%;
+    width: 601px;
+    height: 601px;
+    border: 10px double rgb(12, 129, 119);
+    border-radius: 50%;
+    background-color: black;
+}
+.tw{
+    position: absolute;
+    top: 0px;
+    left: 47%;
+    color: rgb(43, 166, 197);
+    font-size: 40px;
+}
+.one{
+    position: absolute;
+    top: 6%;
+    right: 24%;
+    color: rgb(43, 166, 197);
+    font-size: 40px;
+}
+.two{
+    position: absolute;
+    top: 23%;
+    right: 7%;
+    color: rgb(43, 166, 197);
+    font-size: 40px;
+}
+.three{
+    position: absolute;
+    top: 45%;
+    right: 2%;
+    color: rgb(43, 166, 197);
+    font-size: 40px;
+}
+.four{
+    position: absolute;
+    top: 67%;
+    right: 7%;
+    color: rgb(43, 166, 197);
+    font-size: 40px;
+}
+.five{
+    position: absolute;
+    top: 85%;
+    right: 23%;
+    color: rgb(43, 166, 197);
+    font-size: 40px;
+}
+.six{
+    position: absolute;
+    top: 92%;
+    left: 49%;
+    color: rgb(43, 166, 197);
+    font-size: 40px;
+}
+.seven{
+    position: absolute;
+    top: 86%;
+    left: 25%;
+    color: rgb(43, 166, 197);
+    font-size: 40px;
+}
+.eight{
+    position: absolute;
+    top: 68%;
+    left: 7%;
+    color: rgb(43, 166, 197);
+    font-size: 40px;
+}
+.nine{
+    position: absolute;
+    top: 45%;
+    left: 2%;
+    color: rgb(43, 166, 197);
+    font-size: 40px;
+}
+.ten{
+    position: absolute;
+    top: 23%;
+    left: 7%;
+    color: rgb(43, 166, 197);
+    font-size: 40px;
+}
+.eleven{
+    position: absolute;
+    top: 6%;
+    left: 25%;
+    color: rgb(43, 166, 197);
+    font-size: 40px;
+}
+#centre{
+    box-sizing: border-box;
+    position: absolute;
+    top: 47.2%;
+    left: 47.6%;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: 2px solid rgb(43, 166, 197);
+    background-color: rgb(15, 99, 15);
+    margin: 0%;
+}
+#hr{
+    position: absolute;
+    top: 49.5%;
+    left: 49.2%;
+    height: 150px;
+    width: 10px;
+    border: 2px solid rgb(43, 166, 197);
+    background-color: rgb(15, 99, 15);
+    border-bottom-left-radius: 35px;
+    border-bottom-right-radius: 35px;
+}
+#min{
+    position: absolute;
+    top: 48.6%;
+    left: 49.4%;
+    height: 200px;
+    width: 6px;
+    border: 2px solid rgb(43, 166, 197);
+    background-color: rgb(15, 99, 15);
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+#sec{
+    position: absolute;
+    top: 49.2%;
+    left: 49.6%;
+    height: 250px;
+    width: 3px;
+    border: 2px solid rgb(43, 166, 197);
+    background-color: rgb(15, 99, 15);
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
